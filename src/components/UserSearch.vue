@@ -13,7 +13,7 @@
       @click:append-inner="onClick"
     >
       <template v-slot:append>
-        <v-avatar>
+        <v-avatar style="padding-bottom: 11px">
           <v-icon>mdi-magnify</v-icon>
         </v-avatar>
       </template></v-text-field
@@ -54,3 +54,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.v-application--is-ltr .v-text-field .v-label {
+    top: 22px;
+}
+</style>
