@@ -20,7 +20,7 @@ A Vue.js application that allows users to search for profiles by ID, view user d
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/vue-user-profile.git
+   git clone git@github.com:NandhiniKesireddy/user-profile-card.git
    cd vue-user-profile
 
 ## Install dependencies:
