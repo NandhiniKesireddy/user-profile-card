@@ -57,6 +57,6 @@ export default {
 
 <style scoped>
 .v-application--is-ltr .v-text-field .v-label {
-    top: 22px;
+  top: 22px;
 }
 </style>
